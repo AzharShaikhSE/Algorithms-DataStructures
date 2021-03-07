@@ -1,2 +1,2 @@
 # Algorithms-DataStructures
-This repository consists implementation of various algorithms and data structures.
+This repository consists implementation of various algorithms and data structures by me.
